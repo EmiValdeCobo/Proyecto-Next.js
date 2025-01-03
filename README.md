@@ -3,7 +3,7 @@
 
 Proyecto sencillo para retroalimentación de next.js donde se hizo simple y sencillo, en el cual es un about me
 
-=======
+
 
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
